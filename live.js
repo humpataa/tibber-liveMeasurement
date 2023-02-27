@@ -46,7 +46,7 @@ ws.onmessage = function(msg) {
 }
 
 ws.addEventListener('error', (event) => {
-  console.log('WebSocket error: ', event);
+	console.log('WebSocket error: ', event);
 });
 
 function stopSocket() {
