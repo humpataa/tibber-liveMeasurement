@@ -1,6 +1,6 @@
 const host = 'wss://websocket-api.tibber.com/v1-beta/gql/subscriptions';
 
-var homeId = '96a14971-525a-4420-aae9-e5aedaa129ff'					// demo id
+var homeId = '96a14971-525a-4420-aae9-e5aedaa129ff'			// demo id
 var tibberToken = '5K4MVS-OjfWhK_4yrjOlFe1F6kJXPVf7eQYggo8ebAE'		// demo token
 
 function createId() {
