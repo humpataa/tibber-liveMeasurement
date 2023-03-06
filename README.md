@@ -8,7 +8,6 @@ Requires Tibber API key, get your own here: https://developer.tibber.com/
 
 Works with active accounts (or demo key) only!
 
-Check out Tibber Developer group at Facebook: https://www.facebook.com/groups/736229228027864
 
 If you want to be part of Tibber, use this link to get €50 credits (I will get them too): https://invite.tibber.com/3vilpyhv
 
